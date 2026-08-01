@@ -1,1 +1,1 @@
-https://104.238.190.130:2087/sub/7416gzt2afpam3we
+vless://c4178f2a-890a-4306-befc-965d4f671d46@104.238.190.130:36618?type=xhttp&encryption=none&path=%2F&host=&mode=auto&security=reality&pbk=DSN2SSv4FX5wuKVA1fCdrj0ovkvIcMp4QuhSy7ShlkQ&fp=chrome&sni=www.icloud.com&sid=a2&spx=%2F#1-m
